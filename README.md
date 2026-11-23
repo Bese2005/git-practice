@@ -8,3 +8,4 @@ small project for learning GitHub
 
 &#x20;i am learning Git- commands and version control
 
+i am also learning howgit pull works.
